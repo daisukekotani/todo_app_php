@@ -1,3 +1,9 @@
+<?php
+
+define()
+
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
